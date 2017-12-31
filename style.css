@@ -1,0 +1,33 @@
+body {
+    background: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+img {
+    border: 4px solid #123456;
+    border-radius: 60px;
+    width: 96%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#catpic2 {
+    height: 420px;
+}
+
+#enter1, #enter2 {
+    width: 50%;
+    height: 40px;
+    font-size: 35px;
+    background: orange;
+    border: 2px solid green;
+    text-align: center;
+}
